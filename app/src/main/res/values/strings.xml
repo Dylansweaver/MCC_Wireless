@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MCC Wireless Provider</string>
+    <string name="txtTitle">MCC Wireless</string>
+    <string name="data1">Unlimited Data</string>
+    <string name="data2">10 GB Data</string>
+    <string name="data3">5 GB Data</string>
+    <string name="hint">Current Bill</string>
+    <string name="btnConvert">Your Price</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0336c678d3c76d95bd882e9d56de940c353aaa17">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_89708ab19d9f2699e17462f2916894093da42f25/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_18f4d242eb5eabdeb476a54679b712a04ece844d/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5e7bbf87e56698d0aae6bea1cd0bccf2b5aecd2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dweaver/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d87ba0ce0899a91cb59a1db10b3ea83b4ffb52c5/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_a9facfded9ca717520dbb399e6e27cdbcd2076db/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c0f0b97ce778af78a931a53b9e477539c08823db/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_54c037de44ff707f0601724862d450b3e70a5b2a/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3e2ffcb51207c659fa16bf2862a8eee764d58006">
+        <dex dex="/Volumes/DATA/Users/dweaver/AndroidStudioProjects/MCC Wireless/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a2545b998c3d5b02a8f4bef64169895d603fbfed/classes.dex" />
+    </item>
+
+</items>
